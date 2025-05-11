@@ -1,3 +1,3 @@
 # typing-text-animation
 
-[DEMO](https://shantoislam6.github.io/typing-text-animation/)
+[DEMO](https://ishantoz.github.io/typing-text-animation/)
